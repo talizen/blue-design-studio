@@ -1,0 +1,36 @@
+{
+  "name": "blue-design-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "blue. — Design Studio — a website template from Talizen Templates.",
+  "license": "MIT",
+  "homepage": "https://templates.talizen.com/templates/blue-design-studio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talizen/blue-design-studio.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "embla-carousel": "^8",
+    "embla-carousel-autoplay": "^8.6.0",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.13"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0"
+  }
+}

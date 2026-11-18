@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "work-1",
+    "sort": 5,
+    "body": {
+      "cover": "/assets/mijpcmwlhqo_image.png",
+      "tags": [
+        "Brand Identity"
+      ],
+      "title": "Making Data Human: The Northlake Analytics UX Overhaul"
+    }
+  },
+  {
+    "slug": "work-2",
+    "sort": 4,
+    "body": {
+      "cover": "/assets/mijpbumyodi_image.png",
+      "tags": [
+        "Development",
+        "Website"
+      ],
+      "title": "From Data to Decisions: A Visual Voice for Northlake"
+    }
+  },
+  {
+    "slug": "work-3",
+    "sort": 3,
+    "body": {
+      "cover": "/assets/mijozdysrqo_image.png",
+      "tags": [
+        "Website",
+        "Development"
+      ],
+      "title": "Meridian Health: A Calmer Web Experience for Patients"
+    }
+  },
+  {
+    "slug": "work-4",
+    "sort": 2,
+    "body": {
+      "cover": "/assets/mijoxrfykgz_image.png",
+      "tags": [
+        "Brand Identity"
+      ],
+      "title": "Atlas Coffee Co.: Brand Identity from Bean to Cup"
+    }
+  },
+  {
+    "slug": "work-5",
+    "sort": 1,
+    "body": {
+      "cover": "/assets/mijoptsssae_image.png",
+      "tags": [
+        "Website",
+        "Product Design"
+      ],
+      "title": "Orbitly SaaS Platform: UX/UI for Market Intelligence"
+    }
+  }
+]
